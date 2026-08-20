@@ -1,0 +1,15 @@
+## Table of Contents
+
+1. [Name, Nature and Jurisdiction](ARTICLE-01.md)
+2. [Vision, Mission and Objectives](ARTICLE-02.md)
+3. [Membership](ARTICLE-03.md)
+4. [Organizational Structure](ARTICLE-04.md)
+5. [Executive Committee](ARTICLE-05.md)
+6. [Duties and Responsibilities](ARTICLE-06.md)
+7. [Elections and Election Procedure](ARTICLE-07.md)
+8. [Meetings](ARTICLE-08.md)
+9. [Finance and Club Assets](ARTICLE-09.md)
+10. [Code of Conduct and Disciplinary Action](ARTICLE-10.md)
+11. [Amendments](ARTICLE-11.md)
+12. [Dissolution](ARTICLE-12.md)
+13. [Miscellaneous Provisions](ARTICLE-13.md)
