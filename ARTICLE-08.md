@@ -1,4 +1,4 @@
-## Article VIII — Meetings
+## Article 8 — Meetings
 ### 8.1 General Assembly
 
 The General Assembly shall consist of all General Members in good standing of the Club. It shall serve as the principal deliberative body of the Club and shall exercise the powers and responsibilities assigned to it under this Constitution.
