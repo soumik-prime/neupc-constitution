@@ -1,7 +1,5 @@
 ## Article 13 — Miscellaneous Provisions
 
-## Article 13 — Interpretation and Supersession
-
 ### 13.1 Interpretation
 
 In case of ambiguity or dispute concerning the interpretation of this Constitution, the Executive Committee may issue an initial interpretation for the purpose of Club administration. Where the matter concerns the powers of the Executive Committee, the validity of an election, a disciplinary matter, or a dispute between constitutional bodies, the matter shall be referred to the Advisory Panel for interpretation.
