@@ -33,7 +33,7 @@ No member may hold the same Executive position for more than one consecutive ter
 
 3. **Good Standing** — A candidate must be in good standing under Clause 1.7 at the time of nomination and must remain in good standing throughout the election process.
 
-**4. **Academic Status** — A candidate must be an active student of the University at the time of nomination and election and must reasonably be expected to remain an enrolled student during the term of office.**
+4. **Academic Status** — A candidate must be an active student of the University at the time of nomination and election and must reasonably be expected to remain an enrolled student during the term of office.
 
 5. **Previous Service** — Previous service on the Executive Committee shall not, by itself, make a member ineligible for election, subject to the term and position restrictions under Clause 5.2.
 
