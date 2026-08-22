@@ -51,6 +51,8 @@ No member may hold the same Executive position for more than one consecutive ter
 
 12. **No Automatic Entitlement** — Meeting the eligibility requirements shall establish only a member's eligibility to contest an Executive Committee position and shall not create any entitlement to nomination, election, appointment, or a particular office.
 
+13. **No Concurrent Executive Position in Departmental Clubs** — To ensure that Executive Members can give sufficient time, responsibility, and commitment to the Club and to avoid conflicts of responsibility between departmental student organizations, no person shall simultaneously hold an elected or appointed Executive Committee position in this Club and an elected or appointed Executive Committee position in another student club or organization under the Department of Computer Science and Engineering, Netrokona University. Holding ordinary membership, participating in activities, or volunteering in another club or organization shall not, by itself, constitute a conflict under this provision. If an Executive Member accepts or assumes such an Executive position during their term, they shall be required to relinquish one of the positions; if they choose to retain the position in the other organization, their Executive Committee position in this Club shall automatically become vacant.
+
 ### 5.4 Position-Specific Eligibility
 
 1. **Senior Leadership Posts:** A candidate for President, Vice President, or Treasurer must have represented the Club or Department in at least one (1) ICPC or NCPC contest, or in at least two (2) IUPC contests at the national level.
