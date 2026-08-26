@@ -2,7 +2,7 @@
 
 ### 3.1 Eligibility
 
->[Need More Discussion] Any currently enrolled student of Netrokona University with an interest in programming and computer science may apply for membership, regardless of department, academic year, or prior experience.
+Any student currently enrolled in the Bachelor of Science (BSc) program in Computer Science and Engineering at Netrokona University with an interest in programming and computer science may apply for membership, regardless of academic year or prior experience.
 
 ### 3.2 Categories of Membership
 
