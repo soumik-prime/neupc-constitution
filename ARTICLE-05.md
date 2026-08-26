@@ -86,7 +86,7 @@ No member may hold the same Executive position for more than one consecutive ter
 4. **Voting** — Removal from office shall require a two-thirds (2/3) majority vote of the Executive Committee.
 5. **Recusal** — The Executive Member facing removal shall not preside over or vote on the motion for their own removal.
 6. **Ratification** — Any decision to remove an Executive Member shall be subject to ratification by the Advisory Panel.
-7. **Immediate Risk** — Where the conduct in question poses an immediate risk to the safety of members or the Club's funds, the President, or the Vice President if the President is the subject of the matter, may convene an emergency Executive Committee meeting under Clause 8.3.
+7. **Immediate Risk** — Where the conduct in question poses an immediate risk to the safety of members or the Club’s funds, an emergency Executive Committee meeting may be convened in accordance with Clause 8.4.
 8. **Effect of Removal** — Upon ratification, the office shall be considered vacant and shall be filled in accordance with Clause 5.3 (Vacancy).
 
 ### 5.7 Continuity and Caretaker Status

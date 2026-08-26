@@ -11,11 +11,11 @@ An Annual General Meeting (AGM) shall be held once during each Executive Committ
 
 ### 8.3 Executive Committee Meetings
 
-The Executive Committee shall meet at least once per month to review the Club's operations, ongoing activities, projects, and other matters requiring Executive Committee consideration.
+The Executive Committee shall meet at least once per month to review the Club’s operations, ongoing activities, projects, and other matters requiring Executive Committee consideration.
 
 ### 8.4 Emergency Meetings
 
-An emergency Executive Committee meeting may be called by the President or upon the written request of at least one-third (1/3) of the Executive Committee when an urgent matter requires immediate consideration. At least forty-eight (48) hours' notice shall be given, unless circumstances make such notice impracticable.
+An emergency meeting of the Executive Committee may be called by the President, the Vice President, or upon the written request of at least one-third (1/3) of the members of the Executive Committee when an urgent matter requires immediate consideration. At least forty-eight (48) hours’ notice shall be given to all Executive Committee members, unless the circumstances make such notice impracticable.
 
 ### 8.5 Quorum
 
