@@ -6,20 +6,20 @@ Any student currently enrolled in the Bachelor of Science (BSc) program in Compu
 
 ### 3.2 Categories of Membership
 
-1. **General Member** — A student who has completed the Club’s registration process and whose membership is currently active and has not been suspended, terminated, or otherwise revoked in accordance with this Constitution.
+1. **General Member** — A student who has completed the Club’s registration process and whose membership is currently active and has not been  terminated, or otherwise revoked in accordance with this Constitution.
 
-2. **Executive Member** — A General Member who currently holds an elected or appointed position on the Executive Committee under Article 5.
+2. **Executive Member** — A General Member who currently holds an elected  position on the Executive Committee under Article 5.
 
 3. **Mentor** — An MSc student of the Department of Computer Science & Engineering who has previously been an active member of the Club and is appointed by the Executive Committee to provide guidance and support for the Club’s technical activities.
 
 ### 3.3 Registration
 
-Students may register for membership at any time throughout the academic year through the registration process determined by the Executive Committee. A registration fee, as determined by the Executive Committee, may be required at the time of registration. The Executive Committee shall determine the amount, payment method, and applicable procedures for the registration fee and shall consider each registration reasonably and in good faith before approving or rejecting the applicant for membership.
+Students may register for membership at any time throughout the academic year through the registration process determined by the Executive Committee. A registration fee, as determined by the Executive Committee, may be required at the time of registration. The Executive Committee shall determine the amount, payment method, and applicable procedures for the registration fee and shall consider each registration reasonably and in good faith before approving or rejecting the applicant for membership. A person whose membership has been terminated may not reapply for membership during the applicable cooldown period specified in the termination notice or, if permanently banned, at any time.
 
 
 ### 3.4 Rights of Members
 
-All General Members whose membership has not been suspended or terminated shall have the right to:
+All General Members whose membership has not been  terminated shall have the right to:
 1. Attend Club events and activities;
 2. Access Club resources, subject to applicable rules;
 3. Stand for election to an Executive position, subject to the eligibility requirements under [Article 7](ARTICLE-07.md); and

@@ -20,7 +20,7 @@ This Constitution shall be the supreme governing document of the Club. All decis
 
 The Advisory Panel shall have the following roles and authorities:
 
-1. Provide guidance to the Club while not being required to approve or oversee the routine activities and decisions of the Executive Committee.
+1. Provide guidance and advice to the Club on matters relating to its activities, development, and overall direction.
 
 2. Be consulted or involved when:
 
@@ -28,8 +28,7 @@ The Advisory Panel shall have the following roles and authorities:
    * the Executive Committee is unable to resolve a matter; or
    * a matter requires coordination with or involvement of the Department or University authority.
 
-3. Request, where reasonably necessary, reports, financial statements, records, or audits relating to the affairs and activities of the Club for purposes of review, accountability, or institutional coordination.
-
+3. Review, where reasonably necessary, reports, financial statements, records, or audits relating to the affairs and activities of the Club for purposes of accountability or institutional coordination.
 4. Act jointly on matters referred to the Advisory Panel. Where the two Advisors disagree on a matter requiring their joint decision, the matter shall be referred to the Head of the Department of Computer Science & Engineering, Netrokona University, whose decision shall be final.
 
 5. If either Advisor position becomes vacant, the Department shall appoint a new Advisor. Pending such appointment, the remaining Advisor may act alone on matters referred to the Advisory Panel.

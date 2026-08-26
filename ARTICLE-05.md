@@ -1,4 +1,4 @@
-## Article V — Executive Committee
+## Article 5 — Executive Committee
 
 ### 5.1 Composition
 
@@ -23,15 +23,14 @@ The Executive Committee shall consist of the following fourteen designations:
 
 Each Executive Committee shall hold office for one academic year (twelve months) from the date of its official handover ceremony, unless dissolved earlier under this Constitution or continued in caretaker capacity under Clause 5.5.
 
-No member may hold the same Executive position for more than one consecutive term. Accordingly, members shall rotate to different Executive positions in subsequent terms, except for the positions of President, Vice President, Treasurer, and Women's Engagement Secretary. A member serving in any of these four positions may be re-elected to the same position in a subsequent term when necessary to maintain leadership continuity. Prior service in any of these positions shall not, by itself, render the member ineligible for re-election.
+In the event of a vacancy in an Executive position, an existing Executive Committee member may be designated as Acting [Position] until the vacancy is filled in accordance with this Constitution. Such designation shall not be considered to constitute holding more than one Executive position simultaneously.
 
 ## 5.3 Eligibility for Executive Committee Office
 
-1. **General Eligibility** — Any General Member in good standing may be eligible for election to an Executive Committee position, provided that the member satisfies the specific requirements of this Constitution.
+1. **General Eligibility** — Any General Member in good standing may be eligible for election to an Executive Committee position, provided that the member satisfies the specific requirements of this Constitution. A member who has previously held an Executive position shall not be eligible to stand for election to that same position in any subsequent term.
 
-2. **Membership Requirement** — A candidate must have maintained active membership in the Club for at least six (6) continuous months immediately preceding the date of nomination and must not have been suspended, banned, or otherwise disqualified from Club membership during that period.
+2. **Membership Requirement** — A candidate must have maintained active membership in the Club for at least six (6) continuous months immediately preceding the date of nomination and must not have been banned, or otherwise disqualified from Club membership during that period.
 
-3. **Good Standing** — A candidate must be in good standing under Clause 1.7 at the time of nomination and must remain in good standing throughout the election process.
 
 4. **Academic Status** — A candidate must be an active student of the University at the time of nomination and election and must reasonably be expected to remain an enrolled student during the term of office.
 
@@ -41,25 +40,23 @@ No member may hold the same Executive position for more than one consecutive ter
 
 7. **No Concurrent Executive Positions** — No person may simultaneously hold more than one elected Executive Committee position.
 
-8. **No Eligibility During Disqualification** — A member who has been removed from Executive office under Clause 5.4 or otherwise disqualified under this Constitution shall not be eligible to contest an Executive Committee election for the period of disqualification.
+8. **No Eligibility During Disqualification** — A member who has been removed from Executive office under Clause 5.6 or otherwise disqualified under this Constitution shall not be eligible to contest an Executive Committee election during the same Executive term in which the disqualification applies.
 
 9. **Verification of Eligibility** — The Election Commission shall verify the eligibility of all candidates before finalizing the candidate list. Any dispute concerning a candidate's eligibility shall be decided in accordance with the election procedures established under Article 7.
 
 10. **Compliance with the Constitution** — Every candidate shall comply with this Constitution, the election rules adopted under Article 7, and any lawful decisions of the Election Commission.
 
-11. **Eligibility of Appointed Officers** — An appointed officer or coordinator under Clause 6.16 may contest for an Executive Committee position provided that they satisfy all applicable eligibility requirements. Appointment as an officer or coordinator shall not, by itself, confer eligibility for or voting rights in the Executive Committee.
 
-12. **No Automatic Entitlement** — Meeting the eligibility requirements shall establish only a member's eligibility to contest an Executive Committee position and shall not create any entitlement to nomination, election, appointment, or a particular office.
+12. **No Automatic Entitlement** — Meeting the eligibility requirements shall establish only a member’s eligibility to contest an Executive Committee position and shall not create any entitlement to nomination or election to any Executive position.
 
-13. **No Concurrent Executive Position in Departmental Clubs** — To ensure that Executive Members can give sufficient time, responsibility, and commitment to the Club and to avoid conflicts of responsibility between departmental student organizations, no person shall simultaneously hold an elected or appointed Executive Committee position in this Club and an elected or appointed Executive Committee position in another student club or organization under the Department of Computer Science and Engineering, Netrokona University. Holding ordinary membership, participating in activities, or volunteering in another club or organization shall not, by itself, constitute a conflict under this provision. If an Executive Member accepts or assumes such an Executive position during their term, they shall be required to relinquish one of the positions; if they choose to retain the position in the other organization, their Executive Committee position in this Club shall automatically become vacant.
+11. **No Concurrent Executive Position in Departmental Clubs —** No person shall simultaneously hold an elected or appointed Executive Committee position in this Club and an elected or appointed executive or leadership position in another student club or organization under the Department of Computer Science and Engineering, Netrokona University. Holding ordinary membership, participating in activities, or volunteering in another club or organization shall not, by itself, constitute a conflict under this provision.
 
+12. **No Concurrent Executive Position in Political Organizations —** No person shall simultaneously hold an elected or appointed Executive Committee position in this Club and an elected or appointed executive or leadership position in any political wing or political organization at Netrokona University. Holding ordinary membership or participating in activities of such an organization shall not, by itself, constitute a conflict under this provision.
 ### 5.4 Position-Specific Eligibility
 
-1. **Senior Leadership Posts:** A candidate for President, Vice President, or Treasurer must have represented the Club or Department in at least one (1) ICPC or NCPC contest, or in at least two (2) IUPC contests at the national level.
+1. **Leadership Posts —** A candidate for President, Vice President, Treasurer, General Secretary, Organizing Secretary, or Programming Secretary must have represented the Club or Department in at least one (1) ICPC, NCPC, IUPC, or other nationally recognized programming competition.
 
-2. **Core Executive Posts:** A candidate for General Secretary, Organizing Secretary, or Programming Secretary must have represented the Club or Department in at least one (1) ICPC, NCPC, or IUPC contest at the national level.
 
-3. **Women's Engagement Secretary:** A candidate for Women's Engagement Secretary shall not be subject to competitive programming participation requirements and shall instead be evaluated under the general eligibility requirements of this Constitution.
 
 4. **Other Executive Posts:** All other Executive positions shall be subject to the general eligibility requirements of this Constitution.
 4. **Fallback Eligibility:** If no candidate satisfies the position-specific eligibility requirement for a particular position during the nomination period, the requirement shall not prevent an otherwise eligible General Member from being nominated for that position.
@@ -70,10 +67,8 @@ No member may hold the same Executive position for more than one consecutive ter
 
 1. **Presidential Vacancy** — If the office of President becomes vacant, the Vice President shall automatically assume the position of Acting President for the remainder of the term, unless a by-election is called in accordance with this Constitution.
 2. **Vice Presidential Vacancy** — If the office of Vice President becomes vacant, the Executive Committee may appoint an eligible Executive Member to serve as Acting Vice President until the next election or until a by-election is held. Such appointment shall require a two-thirds (2/3) majority vote of the Executive Committee.
-3. **Other Executive Vacancies** — If any Executive position other than President becomes vacant, the President, or the Acting President, shall propose an eligible member for appointment as an interim officer. The appointment shall require a two-thirds (2/3) majority vote of the Executive Committee.
-4. **Eligibility of Interim Officers** — An interim officer must satisfy the eligibility requirements for the relevant Executive position prescribed by this Constitution.
-5. **Ratification** — Any interim appointment shall be presented to the next General Body Meeting for ratification. If the appointment is not ratified, the Executive Committee shall make a new appointment in accordance with this Section.
-6. **Duration** — An interim officer shall serve until the position is filled through the next regular election or a by-election, as applicable, unless the appointment is terminated earlier in accordance with this Constitution.
+3. **Other Executive Vacancies** — If any Executive position other than President becomes vacant, another Executive Committee member may be designated to serve as Acting [Position] until the vacancy is filled. A by-election may be held to fill the vacancy where required under this Constitution.
+
 7. **No Self-Appointment** — No Executive Member may appoint themselves to a vacant position.
 8. **By-Election** — The Executive Committee may call a by-election to fill a vacant position where the vacancy is considered significant to the effective functioning of the Club.
 9. **Continuity** — A vacancy shall not invalidate decisions or actions lawfully taken by the remaining Executive Committee members, provided that the Committee continues to meet the quorum requirements established by this Constitution.
