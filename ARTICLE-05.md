@@ -69,6 +69,7 @@ In the event of a vacancy in an Executive position, an existing Executive Commit
 2. **Vice Presidential Vacancy** — If the office of Vice President becomes vacant, the Executive Committee may appoint an eligible Executive Member to serve as Acting Vice President until the next election or until a by-election is held. Such appointment shall require a two-thirds (2/3) majority vote of the Executive Committee.
 3. **Other Executive Vacancies** — If any Executive position other than President becomes vacant, another Executive Committee member may be designated to serve as Acting [Position] until the vacancy is filled. A by-election may be held to fill the vacancy where required under this Constitution.
 
+
 7. **No Self-Appointment** — No Executive Member may appoint themselves to a vacant position.
 8. **By-Election** — The Executive Committee may call a by-election to fill a vacant position where the vacancy is considered significant to the effective functioning of the Club.
 9. **Continuity** — A vacancy shall not invalidate decisions or actions lawfully taken by the remaining Executive Committee members, provided that the Committee continues to meet the quorum requirements established by this Constitution.
