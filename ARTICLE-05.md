@@ -49,13 +49,12 @@ In the event of a vacancy in an Executive position, an existing Executive Commit
 
 12. **No Automatic Entitlement** — Meeting the eligibility requirements shall establish only a member’s eligibility to contest an Executive Committee position and shall not create any entitlement to nomination or election to any Executive position.
 
-11. **No Concurrent Executive Position in Departmental Clubs —** No person shall simultaneously hold an elected or appointed Executive Committee position in this Club and an elected or appointed executive or leadership position in another student club or organization under the Department of Computer Science and Engineering, Netrokona University. Holding ordinary membership, participating in activities, or volunteering in another club or organization shall not, by itself, constitute a conflict under this provision.
+11. **No Concurrent Executive Position in Departmental Clubs —** No person shall simultaneously hold an elected or Executive Committee position in this Club and an elected or appointed executive or leadership position in another student club or organization under the Department of Computer Science and Engineering, Netrokona University. Holding ordinary membership, participating in activities, or volunteering in another club or organization shall not, by itself, constitute a conflict under this provision.
 
-12. **No Concurrent Executive Position in Political Organizations —** No person shall simultaneously hold an elected or appointed Executive Committee position in this Club and an elected or appointed executive or leadership position in any political wing or political organization at Netrokona University. Holding ordinary membership or participating in activities of such an organization shall not, by itself, constitute a conflict under this provision.
+12. **No Concurrent Executive Position in Political Organizations —** No person shall simultaneously hold an elected or Executive Committee position in this Club and an elected or appointed executive or leadership position in any political wing or political organization at Netrokona University. Holding ordinary membership or participating in activities of such an organization shall not, by itself, constitute a conflict under this provision.
 ### 5.4 Position-Specific Eligibility
 
 1. **Leadership Posts —** A candidate for President, Vice President, Treasurer, General Secretary, Organizing Secretary, or Programming Secretary must have represented the Club or Department in at least one (1) ICPC, NCPC, IUPC, or other nationally recognized programming competition.
-
 
 
 4. **Other Executive Posts:** All other Executive positions shall be subject to the general eligibility requirements of this Constitution.
