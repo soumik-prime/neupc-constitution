@@ -14,7 +14,7 @@ Any proposed amendment shall be circulated to all General Members in good standi
 
 ### 11.3 Approval
 
-An amendment shall require approval by a two-thirds (2/3) majority of General Members present and voting at a General Assembly meeting.
+An amendment shall require approval by a two-thirds (2/3) majority of General Members present and voting at a General Assembly meeting. Any approved amendment shall subsequently require approval from the Department of Computer Science and Engineering before taking effect.
 
 An amendment shall not take effect if it conflicts with applicable University or Departmental rules or policies.
 
