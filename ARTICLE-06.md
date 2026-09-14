@@ -68,11 +68,10 @@ The Associate Organizing Secretary shall:
 The Programming Secretary shall:
 
 * Design and coordinate competitive-programming training sessions, practice activities, and educational programs for Club members.
-* Curate, prepare, or recommend practice problems and other competitive-programming resources.
 * Organize internal programming contests, including mock ICPC-style contests and other competitive events.
 * Maintain appropriate records of members' participation and competitive-programming development for training and team-selection purposes.
 * Coordinate the process for selecting or recommending teams and participants for programming competitions, subject to any applicable rules or decisions of the Executive Committee.
-* Work with relevant Executive Committee members to promote competitive-programming and related technical skill development among Club members.
+* Work with relevant Executive Committee members to promote competitive programming and related technical skill development among Club members.
 
 ## 6.8 Associate Programming Secretary
 
