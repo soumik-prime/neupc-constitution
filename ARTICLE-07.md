@@ -68,7 +68,7 @@ Once constituted, the Election Commission shall operate independently of the Exe
 
 ### 7.8 Handover
 
-1. **Handover Period:** The outgoing Executive Committee shall formally hand over its responsibilities to the incoming Executive Committee within seven (7) days of the declaration of results.
+1. **Handover Period:** The outgoing Executive Committee shall formally hand over its responsibilities, records, assets, and ongoing activities to the incoming Executive Committee within seven (7) days of the declaration of election results or the expiration of the outgoing committee’s term, whichever occurs later.
 
 2. **Documentation:** The handover shall include the transfer of relevant Club records, financial documents, assets, accounts, ongoing projects, and other necessary administrative materials.
 
