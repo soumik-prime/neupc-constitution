@@ -2,11 +2,13 @@
 
 ### 7.1 Election Commission
 
-At least thirty (30) working days before the end of its term, the outgoing Executive Committee shall constitute an independent Election Commission consisting of no fewer than three (3) General Members who are not contesting the upcoming election and have no direct conflict of interest with any candidate.
+1. **Constitution:** At least thirty (30) working days before the end of its term, the outgoing Executive Committee shall constitute an independent Election Commission consisting of no fewer than three (3) General Members who are not contesting the upcoming election and have no direct conflict of interest with any candidate.
 
-The Election Commission shall be responsible for conducting and overseeing the election process in accordance with this Constitution.
+2. **Responsibility:** The Election Commission shall be responsible for conducting and overseeing the election process in accordance with this Constitution.
 
-Once constituted, the Election Commission shall operate independently of the Executive Committee and shall have authority over the administration of the election, including nominations, eligibility verification, voting, counting, and declaration of results.
+3. **Independence and Authority:** Once constituted, the Election Commission shall operate independently of the Executive Committee and shall have authority over the administration of the election, including nominations, eligibility verification, voting, counting, and declaration of results.
+
+4. **Volunteer Assistance:** The Election Commission may engage up to five (5) General Members as volunteers for administrative or logistical support. Volunteers have no decision-making authority over eligibility, voting, counting, or results, and are bound by the same neutrality and confidentiality standards as Commission members.
 
 ### 7.2 Eligibility and Nomination of Candidates
 
