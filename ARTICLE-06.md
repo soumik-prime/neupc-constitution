@@ -41,7 +41,7 @@ The Treasurer shall:
 * Prepare the annual budget and present financial statements and reports at General Body meetings and whenever required by the Executive Committee.
 * Manage Club funds in accordance with the approved budget, financial decisions of the Executive Committee, and the provisions of this Constitution.
 * Serve as joint signatory with the President for withdrawals or authorized transactions involving Club funds, where applicable.
-* Shall not approve, authorize, or process any payment to themselves. Any such payment shall require the counter-signature or approval specified under Clause 9.2.
+* Shall not approve, authorize, or process any payment to themselves. Any such payment shall require the counter-signature or approval specified under Clause 9.2.******
 * Preserve all relevant financial records and supporting documents for audit, review, or inspection as required.
 
 ## 6.5 Organizing Secretary
