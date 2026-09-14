@@ -15,11 +15,11 @@ Any existing rule or practice that is not inconsistent with this Constitution ma
 
 ### 13.3 Effective Date
 
-This Constitution shall be formally adopted and signed by the current Executive Committee and the Advisory Panel and shall take effect upon such adoption, except for provisions that establish, alter, or impose requirements upon the composition, eligibility, powers, duties, or term of the Executive Committee.
+This Constitution shall be formally adopted and signed by the current Executive Committee and the Advisory Panel and shall take effect upon adoption.
 
-Such provisions shall take full effect from the commencement of the next Executive Committee term. Until then, the current Executive Committee shall continue to operate under its existing arrangements.
+However, provisions concerning the composition, eligibility, powers, duties, or term of the Executive Committee shall take effect from 16 August 2027, upon the commencement of the next Executive Committee term. Until then, the current Executive Committee shall continue to operate under the existing arrangements.
 
-Upon commencement of the next Executive Committee term, all provisions of this Constitution shall be fully effective and shall govern the Club.
+From 16 August 2027, all provisions of this Constitution shall be fully effective and shall govern the Club.
 
 
 ### 13.4 Severability
