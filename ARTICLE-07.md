@@ -89,3 +89,15 @@ The election process, including nomination, campaigning, voting, counting, and d
 
 If the election cannot be completed within this period, the outgoing Executive Committee shall continue in a caretaker capacity in accordance with Clause 5.7 (Continuity and Caretaker Status).
 
+### 7.11 Election Commission Misconduct
+
+1. **Standard of Conduct:** Election Commission members must act impartially and honestly. Dishonesty, bias, collusion with a candidate, hidden conflicts of interest, or manipulation of nominations, voting, or counting are serious violations.
+
+2. **Reporting:** Any General Member may file a written complaint against a Commission member with the outgoing Executive Committee within forty-eight (48) hours of the misconduct or its discovery.
+
+3. **Removal:** If grounds are found, the outgoing Executive Committee shall remove the offending member and appoint an uninvolved replacement meeting Clause 7.1's requirements.
+
+4. **Effect on the Election:** If the misconduct materially affected nominations, voting, counting, or results, the reconstituted Commission shall void and repeat the affected step. If results were already declared, Clause 7.7 applies, treating the finding as a grievance.
+
+5. **Disciplinary Action:** A member found responsible for serious or repeated misconduct is also subject to disciplinary action under Article 10.
+
