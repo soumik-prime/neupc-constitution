@@ -1,4 +1,4 @@
-## Article 13 — Miscellaneous Provisions
+## Article 12 — Miscellaneous Provisions
 
 ### 13.1 Interpretation
 
