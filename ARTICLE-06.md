@@ -69,7 +69,7 @@ The Programming Secretary shall:
 
 * Design and coordinate competitive-programming training sessions, practice activities, and educational programs for Club members.
 * Organize internal programming contests, including mock ICPC-style contests and other competitive events.
-* Maintain appropriate records of members' participation and competitive-programming development for training and team-selection purposes.
+* Maintain appropriate records of members' participation and competitive programming development for training and team-selection purposes.
 * Coordinate the process for selecting or recommending teams and participants for programming competitions, subject to any applicable rules or decisions of the Executive Committee.
 * Work with relevant Executive Committee members to promote competitive programming and related technical skill development among Club members.
 
@@ -87,7 +87,7 @@ The Associate Programming Secretary shall:
 The Membership Secretary shall:
 
 * Lead the recruitment of new members and administer the membership admission process in accordance with Clause 3.3.
-* Maintain the official membership database and records of members' status and standing under Clause 1.7.
+* Maintain the official membership database and records of members' status.
 * Coordinate with the General Secretary to ensure that membership records remain accurate and consistent with the Club's administrative records.
 * Organize orientation, onboarding, and initial engagement activities for newly admitted members.
 * Inform the Executive Committee of significant changes in membership status where required under this Constitution.
