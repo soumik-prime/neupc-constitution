@@ -77,7 +77,7 @@ Once constituted, the Election Commission shall operate independently of the Exe
 
 1. **Prohibited Conduct:** Bribery, vote-buying, coercion, voter impersonation, ballot tampering, and other forms of election fraud are strictly prohibited.
 
-2. **Consequences:** A candidate found responsible for a serious violation may be disqualified from the election. If the individual has already been elected, they may be removed from office in accordance with Clause 5.4.
+2. **Consequences:** A candidate found responsible for a serious violation may be disqualified from the election. If the individual has already been elected, they may be removed from office in accordance with Clause 5.6.
 
 3. **Disciplinary Action:** Election-related misconduct may also result in disciplinary action under Article X, where applicable.
 
