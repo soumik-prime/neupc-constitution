@@ -89,7 +89,6 @@ The Membership Secretary shall:
 * Lead the recruitment of new members and administer the membership admission process in accordance with Clause 3.3.
 * Maintain the official membership database and records of members' status.
 * Coordinate with the General Secretary to ensure that membership records remain accurate and consistent with the Club's administrative records.
-* Organize orientation, onboarding, and initial engagement activities for newly admitted members.
 * Inform the Executive Committee of significant changes in membership status where required under this Constitution.
 
 ## 6.10 Associate Membership Secretary
@@ -98,7 +97,6 @@ The Associate Membership Secretary shall:
 
 * Assist the Membership Secretary in member recruitment and outreach.
 * Assist in processing membership applications and maintaining relevant membership records.
-* Assist with orientation, onboarding, and engagement activities for newly admitted members.
 * Perform other membership-related responsibilities delegated by the Membership Secretary or Executive Committee.
 
 ## 6.11 Publicity Secretary
