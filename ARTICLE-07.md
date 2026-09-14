@@ -79,11 +79,11 @@ Once constituted, the Election Commission shall operate independently of the Exe
 
 2. **Consequences:** A candidate found responsible for a serious violation may be disqualified from the election. If the individual has already been elected, they may be removed from office in accordance with Clause 5.6.
 
-3. **Disciplinary Action:** Election-related misconduct may also result in disciplinary action under Article X, where applicable.
+3. **Disciplinary Action:** Election-related misconduct may also result in disciplinary action under Article 10, where applicable.
 
 ### 7.10 Election Timeline
 
 The election process, including nomination, campaigning, voting, counting, and declaration of results, shall be completed before the expiration of the sitting Executive Committee's term under Clause 5.2.
 
-If the election cannot be completed within this period, the outgoing Executive Committee shall continue in caretaker capacity in accordance with Clause 5.5 (Continuity and Caretaker Status).
+If the election cannot be completed within this period, the outgoing Executive Committee shall continue in a caretaker capacity in accordance with Clause 5.5 (Continuity and Caretaker Status).
 
