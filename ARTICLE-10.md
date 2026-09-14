@@ -77,7 +77,7 @@ Cheating in a contest that does not meet the definition of a High-Stakes Contest
 
 1. **First Offense:** A formal written warning shall be issued and recorded in the member's disciplinary record. The member may also be required to attend an integrity briefing or counseling session designated by the Club. The member may be made ineligible for selection to a Club-affiliated external team for one contest cycle.
 
-2. **Second Offense:** The member may be suspended from Club privileges for up to one academic semester. If the member holds an Executive Committee position, the Executive Committee may also consider removal from that position in accordance with Clause 5.4.
+2. **Second Offense:** The member may be suspended from Club privileges for up to one academic semester. If the member holds an Executive Committee position, the Executive Committee may also consider removal from that position in accordance with Clause 5.6.
 
 3. **Third Offense:** A third confirmed offense may result in suspension or expulsion from the Club, depending on the circumstances and severity of the conduct.
 
