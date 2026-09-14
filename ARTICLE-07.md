@@ -85,5 +85,5 @@ Once constituted, the Election Commission shall operate independently of the Exe
 
 The election process, including nomination, campaigning, voting, counting, and declaration of results, shall be completed before the expiration of the sitting Executive Committee's term under Clause 5.2.
 
-If the election cannot be completed within this period, the outgoing Executive Committee shall continue in a caretaker capacity in accordance with Clause 5.5 (Continuity and Caretaker Status).
+If the election cannot be completed within this period, the outgoing Executive Committee shall continue in a caretaker capacity in accordance with Clause 5.7 (Continuity and Caretaker Status).
 
