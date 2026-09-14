@@ -96,8 +96,8 @@ In the event of a vacancy in an Executive position, an existing Executive Commit
 
 ### 5.8 Vote of No Confidence
 
-1. At least two-third (2/3) of General Members in good standing may submit a written petition to the Advisory Panel requesting a Vote of No Confidence against any Executive Member, including the President.
+1. At least two-thirds (2/3) of General Members in good standing may submit a written petition to the Advisory Panel requesting a Vote of No Confidence against any Executive Member, including the President.
 2. Upon receiving a valid petition, the Advisory Panel shall convene an Extraordinary General Meeting within twenty-one (21) days.
 3. The Executive Member concerned shall be given an opportunity to respond before the vote.
 4. The motion shall be approved by a simple majority of General Members present and voting.
-5. If the motion is approved, the Executive Member shall immediately cease to hold office, and the vacancy shall be filled in accordance with Clause 5.3.
+5. If the motion is approved, the Executive Member shall immediately cease to hold office, and the vacancy shall be filled in accordance with Clause 5.5.
