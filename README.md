@@ -11,5 +11,4 @@
 9. [Finance and Club Assets](ARTICLE-09.md)
 10. [Code of Conduct and Disciplinary Action](ARTICLE-10.md)
 11. [Amendments](ARTICLE-11.md)
-12. [Dissolution](ARTICLE-12.md)
-13. [Miscellaneous Provisions](ARTICLE-13.md)
+12. [Miscellaneous Provisions](ARTICLE-13.md)
