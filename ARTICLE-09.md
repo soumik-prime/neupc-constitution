@@ -1,4 +1,4 @@
-## Article 9 — Finance and Club Assets
+# Article 9 — Finance and Club Assets
 
 ### 9.1 Sources of Funds
 
@@ -25,7 +25,7 @@ The Treasurer shall maintain accurate books and records of all Club funds and tr
 
 No single Executive Member shall have sole control over Club funds or both authorize and disburse the same payment.
 
-Any payment made to the Treasurer shall require the approval of the President. Any payment made to the President shall require the approval of the General Secretary.
+Any payment made to the Treasurer shall require written approval by the President and the counter-signature of the General Secretary. Any payment made to the President shall require written approval by the Vice President and the counter-signature of the Treasurer. Any payment made to any other officer with approval authority shall require written approval by an authorized officer who is not receiving the payment and a corresponding record in the payment register. No officer may approve or process a payment to themselves.
 
 ### 9.4 Budget
 

@@ -6,9 +6,9 @@ Any student currently enrolled in the Bachelor of Science (BSc) program in Compu
 
 ### 3.2 Categories of Membership
 
-1. **General Member** — A student who has completed the Club’s registration process and whose membership is currently active and has not been  terminated, or otherwise revoked in accordance with this Constitution.
+1. **General Member** — A student who has completed the Club’s registration process and whose membership is currently active and has not been terminated or otherwise revoked in accordance with this Constitution.
 
-2. **Executive Member** — A General Member who currently holds an elected  position on the Executive Committee under Article 5.
+2. **Executive Member** — A General Member who currently holds an elected position on the Executive Committee under [Article 5](ARTICLE-05.md).
 
 3. **Mentor** — An MSc student of the Department of Computer Science & Engineering who has previously been an active member of the Club and is appointed by the Executive Committee to provide guidance and support for the Club’s technical activities.
 
@@ -16,10 +16,10 @@ Any student currently enrolled in the Bachelor of Science (BSc) program in Compu
 
 Students may register for membership at any time throughout the academic year through the registration process determined by the Executive Committee. A registration fee, as determined by the Executive Committee, may be required at the time of registration. The Executive Committee shall determine the amount, payment method, and applicable procedures for the registration fee and shall consider each registration reasonably and in good faith before approving or rejecting the applicant for membership. A person whose membership has been terminated may not reapply for membership during the applicable cooldown period specified in the termination notice or, if permanently banned, at any time.
 
-
 ### 3.4 Rights of Members
 
-All General Members whose membership has not been  terminated shall have the right to:
+All General Members whose membership has not been terminated shall have the right to:
+
 1. Attend Club events and activities;
 2. Access Club resources, subject to applicable rules;
 3. Stand for election to an Executive position, subject to the eligibility requirements under [Article 7](ARTICLE-07.md); and
@@ -35,7 +35,17 @@ Members shall:
 4. Fulfill any other applicable membership obligations determined by the Club; and
 5. Conduct themselves in accordance with the Code of Conduct and Disciplinary provisions under [Article 10](ARTICLE-10.md).
 
-### 3.6 Termination of Membership
+### 3.6 Definitions
+
+For the purposes of this Constitution:
+
+1. **Active membership** means membership that has been properly registered, is not suspended, and has not been terminated or permanently revoked under this Constitution.
+2. **Good standing** means a General Member who is not suspended, under disciplinary removal, or otherwise disqualified from voting or holding office under this Constitution, and who has satisfied any applicable dues or participation requirements established by the Executive Committee.
+3. **Valid reason** means a reasonable cause recognized by the Executive Committee or the relevant decision-making body, including illness, academic obligation, family emergency, or other circumstances accepted as genuine and documented where reasonably required.
+4. **Reasonable participation** means participation in Club activities or responsibilities at a level reasonably expected for a member in good standing, as determined in accordance with the rules and standards adopted by the Executive Committee.
+5. **Significant vacancy** means a vacancy that materially impairs the functioning of the Club or a particular office, including where a key office remains unfilled for a prolonged period or where the vacancy affects the Club’s ability to perform essential functions.
+
+### 3.7 Termination of Membership
 
 Membership shall end upon:
 

@@ -1,4 +1,4 @@
-## Article 11 — Amendments
+# Article 11 — Amendments
 
 ### 11.1 Proposal
 
@@ -20,7 +20,7 @@ An amendment shall not take effect if it conflicts with applicable University or
 
 ### 11.4 Effective Date and Record
 
-An approved amendment shall take effect immediately upon its approval by the General Assembly, unless the amendment itself specifies a later effective date. The amendment shall be incorporated into the official text of this Constitution, together with a record of its approval date and nature of the change.
+An approved amendment shall take effect only upon approval by the Department of Computer Science and Engineering, unless the approved amendment specifies a later effective date. The amendment shall be incorporated into the official text of this Constitution, together with a record of its approval date and nature of the change.
 
 Unless expressly stated otherwise, an amendment shall not retroactively affect actions, decisions, appointments, elections, or disciplinary matters completed before its effective date.
 

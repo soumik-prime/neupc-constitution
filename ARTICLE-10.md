@@ -1,4 +1,4 @@
-## Article 10 — Code of Conduct and Disciplinary Action
+# Article 10 — Code of Conduct and Disciplinary Action
 
 ### 10.1 Expected Conduct
 
@@ -17,23 +17,18 @@ The following conduct is prohibited:
 
 ### 10.3 Disciplinary Procedure
 
-1. **Complaint:** A complaint concerning a member shall be submitted in writing to the Executive Committee. A complaint concerning the President shall be submitted to the Advisory Panel.
-
-2. **Investigation:** The Executive Committee shall appoint an investigation committee of at least three (3) members who are not involved in the matter. No person who is the subject of the complaint or has a direct conflict of interest shall participate in the investigation or decision.
-
-3. **Right to Respond:** The member concerned shall be informed of the allegations and given a reasonable opportunity to respond before any disciplinary decision is made.
-
-4. **Decision:** After considering the complaint, investigation findings, and response of the member, the appropriate authority shall determine whether disciplinary action is warranted.
-
-5. **Sanctions:** Depending on the seriousness of the matter, sanctions may include a formal warning, suspension of Club privileges, removal from an Executive position, suspension or termination of membership, or referral to the Department of Computer Science & Engineering.
-
-6. **Departmental Referral:** Matters that cannot be appropriately resolved within the Club, or that involve serious misconduct, financial misconduct, or significant risk to members or the Club, may be referred to the Department of Computer Science & Engineering for further action.
-
-7. **University Referral:** Matters that fall within University-level disciplinary procedures, or that cannot be resolved at the Departmental level, may be referred to the appropriate University authority.
+1. **Complaint:** A complaint concerning a member shall be submitted in writing to the Executive Committee. A complaint concerning an Executive Member shall be submitted to the Advisory Panel. A complaint concerning the President shall also be submitted to the Advisory Panel, which shall coordinate the disciplinary process.
+2. **Appropriate Authority:** The appropriate authority shall be: (a) the Executive Committee for ordinary members; (b) the Advisory Panel for an Executive Member; (c) the Advisory Panel for the President; and (d) a single coordinated process led by the Advisory Panel where the matter concerns multiple members or multiple Executive Members.
+3. **Investigation:** The appropriate authority shall appoint an investigation committee of at least three (3) members who are not involved in the matter. No person who is the subject of the complaint or has a direct conflict of interest shall participate in the investigation or decision.
+4. **Right to Respond:** The member concerned shall be informed of the allegations and given a reasonable opportunity to respond before any disciplinary decision is made.
+5. **Decision:** After considering the complaint, investigation findings, and response of the member, the appropriate authority shall determine whether disciplinary action is warranted.
+6. **Sanctions:** Depending on the seriousness of the matter, sanctions may include a formal warning, suspension of Club privileges, removal from an Executive position, suspension or termination of membership, or referral to the Department of Computer Science & Engineering.
+7. **Departmental Referral:** Matters that cannot be appropriately resolved within the Club, or that involve serious misconduct, financial misconduct, or significant risk to members or the Club, may be referred to the Department of Computer Science & Engineering for further action.
+8. **University Referral:** Matters that fall within University-level disciplinary procedures, or that cannot be resolved at the Departmental level, may be referred to the appropriate University authority.
 
 ### 10.4 Appeal
 
-A member aggrieved by a disciplinary decision may submit a written appeal to the Advisory Panel within seven (7) days of the decision. The Advisory Panel shall review the appeal and may uphold, modify, or overturn the decision.
+A member aggrieved by a disciplinary decision may submit a written appeal to the Advisory Panel within seven (7) days of the decision. The Advisory Panel shall review the appeal and may uphold, modify, or overturn the decision where the member shows material procedural unfairness, a misapplication of this Constitution, or a significant factual error.
 
 Where the matter falls within the authority of the Department of Computer Science & Engineering or the University, the member may further appeal or seek review in accordance with the applicable Departmental or University procedures.
 
@@ -76,11 +71,8 @@ Cheating in other contests shall remain prohibited under Clause 10.2 and shall b
 Cheating in a contest that does not meet the definition of a High-Stakes Contest under Clause 10.7, including an individual contest on platforms such as Codeforces, AtCoder, or similar platforms that is not organized by the Club, shall be addressed through the following disciplinary scale.
 
 1. **First Offense:** A formal written warning shall be issued and recorded in the member's disciplinary record. The member may also be required to attend an integrity briefing or counseling session designated by the Club. The member may be made ineligible for selection to a Club-affiliated external team for one contest cycle.
-
 2. **Second Offense:** The member may be suspended from Club privileges for up to one academic semester. If the member holds an Executive Committee position, the Executive Committee may also consider removal from that position in accordance with Clause 5.6.
-
 3. **Third Offense:** A third confirmed offense may result in suspension or expulsion from the Club, depending on the circumstances and severity of the conduct.
-
 4. **Serious or Organized Cheating:** Any single offense involving organized or large-scale cheating, including operating or participating in a coordinated cheating scheme, may result in immediate expulsion from the Club where established through the disciplinary procedure under Clause 10.3.
 
 The disciplinary scale applies throughout a member's entire membership in the Club and does not reset at the beginning of a new academic year.

@@ -1,4 +1,4 @@
-## Article 2 — Vision, Mission and Objectives
+# Article 2 — Vision, Mission and Objectives
 
 ### 2.1 Vision
 

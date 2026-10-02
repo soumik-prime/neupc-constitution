@@ -1,8 +1,8 @@
-## Article 7 — Elections and Election Procedure
+# Article 7 — Elections and Election Procedure
 
 ### 7.1 Election Commission
 
-1. **Constitution:** At least thirty (30) working days before the end of its term, the outgoing Executive Committee shall constitute an independent Election Commission consisting of no fewer than three (3) General Members who are not contesting the upcoming election and have no direct conflict of interest with any candidate.
+1. **Constitution:** At least thirty (30) working days before the end of its term, the outgoing Executive Committee shall constitute an independent Election Commission consisting of no fewer than three (3) General Members who are not contesting the upcoming election and have no direct conflict of interest with any candidate. The Commission may be formally ratified by the Annual General Meeting, but the outgoing Executive Committee shall make arrangements early enough to meet the thirty-working-day requirement.
 
 2. **Responsibility:** The Election Commission shall be responsible for conducting and overseeing the election process in accordance with this Constitution.
 
@@ -13,91 +13,69 @@
 ### 7.2 Eligibility and Nomination of Candidates
 
 1. **Eligibility:** Candidates for Executive Committee positions must satisfy the eligibility requirements established under Clauses 5.3 and 5.4.
-
 2. **Nomination:** Each nomination shall be submitted by the candidate and seconded by at least two (2) General Members in good standing.
-
 3. **Number of Positions:** A candidate may contest a maximum of two (2) Executive Committee positions in the same election.
-
 4. **Verification:** The Election Commission shall verify the eligibility and validity of all nominations and publish the final list of eligible candidates before the commencement of voting.
 
 ### 7.3 Nomination
 
 1. **Submission:** Candidates shall submit their nominations using the form or procedure prescribed by the Election Commission within the announced nomination period.
-
 2. **Position-Specific Nomination:** For positions subject to position-specific eligibility requirements, the nomination process shall follow the applicable provisions of Clause 5.4 and any phased nomination procedure established under this Constitution.
-
 3. **Scrutiny:** The Election Commission shall review all nominations to verify the candidates' eligibility and the validity of their nominations.
-
 4. **Final List:** The Election Commission shall publish the final list of eligible candidates after completing the scrutiny process.
 
 ### 7.4 Campaigning
 
 1. **Campaign Period:** Campaigning shall be permitted only during the period and in accordance with the guidelines established by the Election Commission.
-
 2. **Conduct:** Candidates shall conduct their campaigns fairly and respectfully. Defamatory, coercive, threatening, discriminatory, or otherwise unethical campaign practices are prohibited.
-
 3. **Campaign Violations:** The Election Commission may issue warnings, require corrective action, or disqualify a candidate for serious or repeated violations of the campaign rules.
-
 4. **Equal Opportunity:** The Election Commission shall make reasonable efforts to ensure that all eligible candidates have a fair opportunity to present their candidacy to the General Members.
 
 ### 7.5 Voting
 
 1. **Method:** Voting shall be conducted by secret ballot, either through a physical ballot or a verifiable digital voting system approved by the Election Commission.
-
 2. **Voting Rights:** A General Member must have maintained active membership in the Club for more than two (2) months immediately preceding the election to be eligible to vote.
-
 3. **Election:** The candidate receiving the highest number of valid votes for a position shall be declared elected.
-
-4. **Validity:** The Election Commission shall determine the validity of ballots and votes in accordance with the election rules established under this Constitution.
+4. **Dual Office Holding:** If a candidate is elected to more than one Executive position, the candidate shall, within seventy-two (72) hours of the declaration of results, notify the Election Commission in writing of the office they wish to retain. The other office shall become vacant and shall be filled in accordance with Clause 5.5 or by a by-election if required. If the candidate does not make a selection within the specified period, the candidate shall be deemed to have retained the lower-ranking office as determined by the Election Commission, and the remaining office shall be treated as vacant.
+5. **Validity:** The Election Commission shall determine the validity of ballots and votes in accordance with the election rules established under this Constitution.
 
 ### 7.6 Tie-Breaking
 
 1. **Re-Vote:** If two or more candidates receive an equal number of the highest valid votes, a re-vote shall be conducted among the tied candidates.
-
 2. **Further Tie:** If the tie persists after the re-vote, the Election Commission shall determine the winner by a fair and transparent method of drawing lots.
-
 3. **Supervision:** The tie-breaking process shall be conducted openly in the presence of the candidates concerned and at least one independent observer designated by the Election Commission.
 
 ### 7.7 Results and Grievances
 
 1. **Declaration of Results:** The Election Commission shall officially declare the election results after completing the counting and verification of all valid votes.
-
 2. **Grievances:** Any grievance concerning the conduct or outcome of the election must be submitted in writing to the Election Commission within forty-eight (48) hours of the declaration of results.
-
-3. **Review:** The Election Commission shall review the grievance and issue its decision within a reasonable period.
-
-4. **Finality:** The decision of the Election Commission shall be final and binding for the election concerned.
+3. **Review:** The Election Commission shall review the grievance and issue its decision within five (5) working days of receiving the grievance, unless a longer period is required for a material investigation and the reason is recorded in writing.
+4. **Effect on Certification and Handover:** A material grievance shall suspend certification of the result and the formal handover until the grievance is finally determined or withdrawn. A non-material grievance shall not postpone the handover unless the Election Commission determines that material prejudice would otherwise arise.
+5. **Finality:** The decision of the Election Commission shall be final and binding for the election concerned.
 
 ### 7.8 Handover
 
-1. **Handover Period:** The outgoing Executive Committee shall formally hand over its responsibilities, records, assets, and ongoing activities to the incoming Executive Committee within seven (7) days of the declaration of election results or the expiration of the outgoing committee’s term, whichever occurs later.
-
+1. **Handover Period:** The outgoing Executive Committee shall formally hand over its responsibilities, records, assets, and ongoing activities to the incoming Executive Committee within seven (7) days of the declaration of election results or the expiration of the outgoing committee’s term, whichever occurs later, unless a material grievance remains pending under Clause 7.7.
 2. **Documentation:** The handover shall include the transfer of relevant Club records, financial documents, assets, accounts, ongoing projects, and other necessary administrative materials.
-
 3. **Handover Ceremony:** The transfer of responsibility shall be formally recorded through a handover ceremony or other documented procedure approved by the Executive Committee.
+
 ### 7.9 Prohibited Practices
 
 1. **Prohibited Conduct:** Bribery, vote-buying, coercion, voter impersonation, ballot tampering, and other forms of election fraud are strictly prohibited.
-
 2. **Consequences:** A candidate found responsible for a serious violation may be disqualified from the election. If the individual has already been elected, they may be removed from office in accordance with Clause 5.6.
-
-3. **Disciplinary Action:** Election-related misconduct may also result in disciplinary action under Article 10, where applicable.
+3. **Disciplinary Action:** Election-related misconduct may also result in disciplinary action under [Article 10](ARTICLE-10.md), where applicable.
 
 ### 7.10 Election Timeline
 
 The election process, including nomination, campaigning, voting, counting, and declaration of results, shall be completed before the expiration of the sitting Executive Committee's term under Clause 5.2.
 
-If the election cannot be completed within this period, the outgoing Executive Committee shall continue in a caretaker capacity in accordance with Clause 5.7 (Continuity and Caretaker Status).
+If the election cannot be completed within this period, the outgoing Executive Committee shall continue in a caretaker capacity in accordance with Clause 5.7.
 
 ### 7.11 Election Commission Misconduct
 
 1. **Standard of Conduct:** Election Commission members must act impartially and honestly. Dishonesty, bias, collusion with a candidate, hidden conflicts of interest, or manipulation of nominations, voting, or counting are serious violations.
-
 2. **Reporting:** Any General Member may file a written complaint against a Commission member with the outgoing Executive Committee within forty-eight (48) hours of the misconduct or its discovery.
-
 3. **Removal:** If grounds are found, the outgoing Executive Committee shall remove the offending member and appoint an uninvolved replacement meeting Clause 7.1's requirements.
-
 4. **Effect on the Election:** If the misconduct materially affected nominations, voting, counting, or results, the reconstituted Commission shall void and repeat the affected step. If results were already declared, Clause 7.7 applies, treating the finding as a grievance.
-
-5. **Disciplinary Action:** A member found responsible for serious or repeated misconduct is also subject to disciplinary action under Article 10.
+5. **Disciplinary Action:** A member found responsible for serious or repeated misconduct is also subject to disciplinary action under [Article 10](ARTICLE-10.md).
 

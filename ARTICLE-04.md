@@ -5,7 +5,7 @@
 The Club shall be governed through three bodies:
 
 (a) **The General Body**, comprising all General Members;
-(b) **The Executive Committee**, elected or appointed in accordance with Article 5; and
+(b) **The Executive Committee**, elected in accordance with [Article 5](ARTICLE-05.md); and
 (c) **The Advisory Panel**, comprising the two Faculty Advisors.
 
 ### 4.2 Authority Flow
